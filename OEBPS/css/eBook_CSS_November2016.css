@@ -1,0 +1,3064 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 40px 40px 40px 40px;
+}
+p.Tharpa-Book-Styles_00-Book-Title---inside {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:180%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.8;
+	margin-top:25%;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Editorial-info {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Editorial-info-1st {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Editorial-info_no-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Also-by {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:150%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Tharpa-logo {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:120%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Tharpa-logo---country {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.7;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Author {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:140%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:3em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Also-by---other-title {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.8;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Profits-1st {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.375;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+}
+p.Tharpa-Book-Styles_00-Profits {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Chapter-subtitle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:120%;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+	text-transform:uppercase;
+}
+p.Tharpa-Book-Styles_00-ebook-page-break {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:0.008em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+.image-page-break{
+	page-break-after: always;
+}
+p.Tharpa-Book-Styles_00-Part-title---number {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Part-title---title {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Chapter-title {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Chapter-title---TOC-Level-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Heading---About-the-Illustrations-Heading {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Chapter-title---TOC-Level-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Chapter-title---TOC-Level-1_no-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:0em;
+	margin-bottom:0em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Illustration---entry {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_00-Illustration---level-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_00-Half-line {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:60%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Chart{
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:none;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0em;
+	margin-left:0.5px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Chart---italic{
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0em;
+	margin-left:0.5px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Image-caption {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+	page-break-after: always;
+}
+p.Tharpa-Book-Styles_01-Image-caption-no-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+
+}
+/*.frame-2 {
+page-break-before: always;
+} */
+/*Body Text size 100%*/
+p.Tharpa-Book-Styles_01-Text---1st-para {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---2nd-para {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---2nd-para-contents {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-1-to-9---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-1-to-9---para-2-no-space-below {
+	-epub-ruby-position:over;
+
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-1-to-9---para-2-space-below {
+	-epub-ruby-position:over;
+
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-1-to-9---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-1-to-9---last-full-space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-10-to-99---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-10-to-99---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---list-10-to-99---last-full-space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---begin-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---middle-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---end-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---Signature-Author {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---title-2 {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:1.7;
+	margin-top:1.5em;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---title-2-Liberating-Prayer {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:1.7;
+	margin-top:1.5em;
+	margin-bottom:1.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---root-text---single {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:2em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---root-text---1st-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:2em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---single {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---begin {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---italic-begin {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---italic-middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---italic-last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---italic-single {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---last-full-space-below{
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---verse---italic-last-full-space-below{
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---single {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---meditation---single {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text-meditation-list-1-9 {
+	-epub-ruby-position:over;
+
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:30px;
+	margin-right:16px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-14px;
+}
+p.Tharpa-Book-Styles_01-Text---meditation---begin {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---meditation---middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---meditation---last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---begin {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0.5em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0.5em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0.5em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation-prose---2nd-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+/*Sadhana body text size 100%*/
+p.Tharpa-Book-Styles_02-Sadhana---heading-2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---heading-2-copy {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---heading-3 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---heading-3-copy {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse---begin {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse---middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse-Liberating-Prayer-middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse---last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse-Liberating-Prayer-last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse-Liberating-Prayer-last-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse---last-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse---x3-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---no-indent {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---indent {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---prose- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---prose---justify-single {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---after-title {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---colophon {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---list-1-to-9---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---list-10-to-99---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Glossary---entry {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Biblio-entry {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Study-program---center-address {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_04-Tharpa-Offices-Address- {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---list-1-to-9---begin {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---list-1-to-9---begin {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_04-Tharpa-Offices-Address---Title {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---single-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---verse-middle {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0em;
+	margin-left:2em;
+	margin-right:2em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---verse-last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:2em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---single-list {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:2em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---single-para-contents {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---half-line {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:60%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---Signature-Author---2-lines-plus {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_00-Editorial-info---addresses {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:80%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Biblio-text {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Biblio-text-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Biblio-text-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Study-program---text {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Study-program---text---2nd-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_03-Study-Program---List---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_04-Tharpa-Offices-Text {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana-content---level-2 {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana-content---level-3 {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---single-not-justify {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---middle-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_00-Book-title---title-page {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:260%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---2nd-para---space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---2nd-para---full-space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation-prose---2nd-para-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text---1st-para---space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---1st-para---full-space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---list-1-to-9---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:1em;
+	margin-left:3em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---list-10-to-99---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:3em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---heading-2---space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-top:2em;
+	margin-bottom:1.7em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---prose---space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---prose---full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---indent-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---indent-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:1.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---no-indent {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:0em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---no-indent-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---Mantra---no-indent-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.6;
+	margin-bottom:1.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Biblio-title---entry {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Biblio-entry---last-space-after {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Study-program---text---space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Study-program---text---full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Study-Program---List---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Study-program---text---2nd-para-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_03-Study-program---text---2nd-para-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---Text {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_03-Condensed-Meaning---Text---space-after {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana-content---level-2-space-after {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-TOC-Body-Text {
+	-epub-ruby-position:over;
+	font-family:"Minion Pro", serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Study-program---halfline {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.7;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---single-last {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---quotation---prose---single-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:2em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---heading-3---centre {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---first-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---last-para {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:1.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---middle-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---end-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---2nd-para-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---2nd-para-justify-space-after{
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:1em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---last-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-10-to-99-with-parenthesis---middle {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-2em;
+}
+p.Tharpa-Book-Styles_01-Text-list-10-to-99-with-parenthesis---end {
+	-epub-ruby-position:over;
+
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.6em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-2em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---last-full-space-below-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---last-full-space-below {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-10-to-99-with-parenthesis---last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-2em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---verse---last-right-aligned- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:right;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---no-spaces {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---begin-justify {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.5em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---begin {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text-list-1-to-9-with-parenthesis---end {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0.6em;
+	margin-left:3em;
+	margin-right:1em;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1.5em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	/*font-variant:small-caps;*/
+	font-weight:bold;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-1-copy{
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-1---before-2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-1---less-space {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:none;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-2---full-space-after {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:none;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-2---full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:none;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-2---after-1 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:none;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-2---less-space {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:none;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_01-Text---heading-3---italics-brackets {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:italic;
+	font-variant:none;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---heading-4 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight:bold;
+	line-height:1.467;
+	margin-bottom:7px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Tharpa-Book-Styles_03-Biblio-entry---2-lines {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0px;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Biblio-entry---2-lines-full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_03-Biblio-entry---2-lines-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:1em;
+	margin-left:1em;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---full-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:1.5em;
+	margin-left:1em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_02-Sadhana---instruction---space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0.5em;
+	margin-left:2em;
+	margin-right:1em;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-1em;
+}
+p.Tharpa-Book-Styles_04-Tharpa-Offices-Address---Last {
+	-epub-ruby-position:over;
+	font-family:Palatino, serif;
+	font-size:100%;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.5;
+	margin-bottom:0.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0em;
+}
+p.Tharpa-Book-Styles_00-Chapter-title---TOC-Level-2 {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	-webkit-hyphens:none;
+	font-family:Palatino, serif;
+	font-size:160%;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.3;
+	margin-top:1em;
+	margin-bottom:2.5em;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0em;
+}
+table.Tharpa-Chart {
+	border-color:#333333;
+	border-style:solid;
+	border-bottom:1px, solid;
+	border-top:1px, solid;
+	border-left:0px;
+	border-right:0px;
+	margin-bottom:1em;
+	margin-top:1em
+}
+span._1---Normal {
+	font-style:normal;
+	font-weight:normal;
+}
+span._1---Italic {
+	font-style:italic;
+	font-weight:normal;
+}
+span._1---Bold {
+	font-style:normal;
+	font-weight:bold;
+}
+span._1---Bold-Italic {
+	font-style:italic;
+	font-weight:bold;
+}
+span._1---Small-Caps {
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-weight:normal;
+}
+span._1---Small-Caps-Italic {
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:italic;
+	font-weight:normal;
+}
+span._1---Small-Caps---BOLD {
+	font-family:Palatino, serif;
+	font-size:90%;
+	font-style:normal;
+	font-weight:bold;
+}
+span.Italics {
+	font-family:Palatino, serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span._1---Hyperlink {
+	color:#0000ff;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:underline;
+}
+span.char-style-override-1 {
+	font-family:Palatino, serif;
+}
+.groupImgs{
+  page-break-inside: avoid;
+}

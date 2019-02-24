@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 11.4.1" />
+		<meta name="cover" content="HTTYL-itunes-cover-1600x2400-_2015-05.jpg" />
+		<dc:title>How to Transform Your Life</dc:title>
+		<dc:creator>Geshe Kelsang Gyatso</dc:creator>
+		<dc:publisher>Tharpa Publications</dc:publisher>
+		<dc:subject>Self-help</dc:subject>
+		<dc:date>2016</dc:date>
+		<dc:rights>Copyright © 2016 New Kadampa Tradition – International Kadampa Buddhist Union</dc:rights>
+		<dc:language>en-GB</dc:language>
+		<meta property="dcterms:modified">2016-11-23T17:31:39Z</meta>
+		<dc:identifier id="bookid">urn:uuid:09380B20-A5DB-4EFB-BDF6-9CFEF602D955</dc:identifier>
+		<dc:identifier>9781910368589</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07" href="How_to_Transform_Your_Life_text_2016-07.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-1" href="How_to_Transform_Your_Life_text_2016-07-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-2" href="How_to_Transform_Your_Life_text_2016-07-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-3" href="How_to_Transform_Your_Life_text_2016-07-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-4" href="How_to_Transform_Your_Life_text_2016-07-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-5" href="How_to_Transform_Your_Life_text_2016-07-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-6" href="How_to_Transform_Your_Life_text_2016-07-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-7" href="How_to_Transform_Your_Life_text_2016-07-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-8" href="How_to_Transform_Your_Life_text_2016-07-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-9" href="How_to_Transform_Your_Life_text_2016-07-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-10" href="How_to_Transform_Your_Life_text_2016-07-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-11" href="How_to_Transform_Your_Life_text_2016-07-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-12" href="How_to_Transform_Your_Life_text_2016-07-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-13" href="How_to_Transform_Your_Life_text_2016-07-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-14" href="How_to_Transform_Your_Life_text_2016-07-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-15" href="How_to_Transform_Your_Life_text_2016-07-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-16" href="How_to_Transform_Your_Life_text_2016-07-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-17" href="How_to_Transform_Your_Life_text_2016-07-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-18" href="How_to_Transform_Your_Life_text_2016-07-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-19" href="How_to_Transform_Your_Life_text_2016-07-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-20" href="How_to_Transform_Your_Life_text_2016-07-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-21" href="How_to_Transform_Your_Life_text_2016-07-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-22" href="How_to_Transform_Your_Life_text_2016-07-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-23" href="How_to_Transform_Your_Life_text_2016-07-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-24" href="How_to_Transform_Your_Life_text_2016-07-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-25" href="How_to_Transform_Your_Life_text_2016-07-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-26" href="How_to_Transform_Your_Life_text_2016-07-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-27" href="How_to_Transform_Your_Life_text_2016-07-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-28" href="How_to_Transform_Your_Life_text_2016-07-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-29" href="How_to_Transform_Your_Life_text_2016-07-29.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-30" href="How_to_Transform_Your_Life_text_2016-07-30.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-31" href="How_to_Transform_Your_Life_text_2016-07-31.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-32" href="How_to_Transform_Your_Life_text_2016-07-32.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-33" href="How_to_Transform_Your_Life_text_2016-07-33.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-34" href="How_to_Transform_Your_Life_text_2016-07-34.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-35" href="How_to_Transform_Your_Life_text_2016-07-35.xhtml" media-type="application/xhtml+xml" />
+		<item id="How_to_Transform_Your_Life_text_2016-07-36" href="How_to_Transform_Your_Life_text_2016-07-36.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="eBook_CSS_November2016.css" href="css/eBook_CSS_November2016.css" media-type="text/css" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="xUmbrella.jpg" href="image/Umbrella.jpg" media-type="image/jpeg" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="xFish.jpg" href="image/Fish.jpg" media-type="image/jpeg" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="xVase.jpg" href="image/Vase.jpg" media-type="image/jpeg" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="xLotus.jpg" href="image/Lotus.jpg" media-type="image/jpeg" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="xConch.jpg" href="image/Conch.jpg" media-type="image/jpeg" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="xIndestructible-Knot.jpg" href="image/Indestructible-Knot.jpg" media-type="image/jpeg" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="xVictory-Banner.jpg" href="image/Victory-Banner.jpg" media-type="image/jpeg" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="xDharma-Wheel.jpg" href="image/Dharma-Wheel.jpg" media-type="image/jpeg" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="hands-in-prostration.jpg" href="image/hands-in-prostration.jpg" media-type="image/jpeg" />
+		<item id="how-logo.png" href="image/how-logo.png" media-type="image/png" />
+		<item id="HTTYL-itunes-cover-1600x2400-_2015-05.jpg" href="image/HTTYL-itunes-cover-1600x2400-_2015-05.jpg" media-type="image/jpeg" properties="cover-image" />
+		<item id="mirror.jpg" href="image/mirror.jpg" media-type="image/jpeg" />
+		<item id="mountain.jpg" href="image/mountain.jpg" media-type="image/jpeg" />
+		<item id="peacock.jpg" href="image/peacock.jpg" media-type="image/jpeg" />
+		<item id="Temple.png" href="image/Temple.png" media-type="image/png" />
+		<item id="VGK-spring04_tharpa_portrait.jpg" href="image/VGK-spring04_tharpa_portrait.jpg" media-type="image/jpeg" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-1" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-2" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-3" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-4" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-5" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-6" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-7" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-8" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-9" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-10" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-11" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-12" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-13" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-14" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-15" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-16" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-17" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-18" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-19" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-20" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-21" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-22" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-23" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-24" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-25" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-26" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-27" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-28" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-29" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-30" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-31" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-32" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-33" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-34" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-35" />
+		<itemref idref="How_to_Transform_Your_Life_text_2016-07-36" />
+	</spine>
+	<guide>
+		<reference type="cover" href="cover.xhtml" title="Cover" />
+		<reference type="toc" href="How_to_Transform_Your_Life_text_2016-07-5.xhtml#_idContainer015" title="Table of Contents" />
+	</guide>
+</package>
